@@ -6,7 +6,7 @@ This project performs an in-depth analysis of a movie dataset to uncover insight
 
 ## 📊 Dataset
 
-The analysis uses the `movies.csv` dataset containing over 9,000 movies with the following key features:
+The analysis uses the `fandango_scrape.csv dataset containing over 9,000 movies with the following key features:
 
 - **Numerical Features:** `year`, `runtime`, `votes`, `budget`, `box_office`
 - **Categorical Features:** `genre`, `rating` (MPAA), `director`, `writer`, `star`, `country`, `company`
