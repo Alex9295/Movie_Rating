@@ -18,13 +18,6 @@ The analysis uses the `movies.csv` dataset containing over 9,000 movies with the
 - Python 3.7+
 - Jupyter Notebook
 
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/Alex9295/Movie_Rating.git
-cd Movie_Rating
-
 🧮 Project Workflow
 1. Data Cleaning & Preprocessing
 Handled missing values in critical columns
